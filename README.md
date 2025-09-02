@@ -1,3 +1,5 @@
 # Vororong-Stealth-Changer-Project
 
-<img width="1755" height="874" alt="image" src="https://github.com/user-attachments/assets/65fe2758-ae16-429e-9c18-2497aba341f1" />
+<img width="1757" height="877" alt="image" src="https://github.com/user-attachments/assets/96b619ab-1b67-4e5d-96aa-e9d11c3b86e4" />
+
+
